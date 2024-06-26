@@ -1,0 +1,42 @@
+[
+    {
+        "title" : {"ru" :  "Аккумуляторная дрель-шуруповерт Makita DDF451RFE", "en" :  "Cordless drill/driver Makita DDF451RFE"},
+        "category_id" : [1, 13]
+    },
+    {
+        "title" : {"ru" :  "Аккумуляторная угловая шлифмашина Makita DGA504Z", "en" :  "Cordless angle grinder Makita DGA504Z"},
+        "category_id" : [2, 13]
+    },
+    {
+        "title" : {"ru" :  "Электрическая пила Makita UC4041A", "en" :  "Electric chainsaw Makita UC4041A"},
+        "category_id" : [3, 13]
+    },
+    {
+        "title" : {"ru" :  "Аккумуляторная циркулярная пила Makita DSS610Z", "en" :  "Cordless circular saw Makita DSS610Z"},
+        "category_id" : [4, 13]
+    },
+    {
+        "title" : {"ru" :  "Аккумуляторный пылесос Makita DVC750LZ", "en" :  "Cordless vacuum cleaner Makita DVC750LZ"},
+        "category_id" : [5, 13]
+    },
+    {
+        "title" : {"ru" :  "Аккумуляторный перфоратор Makita DHR171Z", "en" :  "Cordless rotary hammer Makita DHR171Z"},
+        "category_id" : [6, 13]
+    },
+    {
+        "title" : {"ru" :  "Аккумуляторная сабельная пила Makita DJR186Z", "en" :  "Cordless reciprocating saw Makita DJR186Z"},
+        "category_id" : [7, 13]
+    },
+    {
+        "title" : {"ru" :  "Аккумуляторный триммер Makita DUR181Z", "en" :  "Cordless trimmer Makita DUR181Z"},
+        "category_id" : [8, 13]
+    },
+    {
+        "title" : {"ru" :  "Аккумуляторный рубанок Makita DKP180Z", "en" :  "Cordless planer Makita DKP180Z"},
+        "category_id" : [9, 13]
+    },
+    {
+        "title" : {"ru" :  "Аккумуляторная дрель-шуруповерт Makita DF333DWYE", "en" :  "Cordless drill/driver Makita DF333DWYE"},
+        "category_id" : [10, 13]
+    }
+]

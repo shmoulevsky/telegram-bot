@@ -1,0 +1,11 @@
+[
+    {
+        "title" : {"ru" :  "Механическая часть", "en" :  "Mechanical part"}
+    },
+    {
+        "title" : {"ru" :  "Электрическая часть", "en" :  "Electrical part"}
+    },
+    {
+        "title" : {"ru" :  "ДВС", "en" :  "ICE"}
+    }
+]

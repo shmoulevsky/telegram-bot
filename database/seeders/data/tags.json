@@ -1,0 +1,32 @@
+[
+    {
+        "title": {"ru" :  "Шум", "en" :  "Noise"}
+    },
+    {
+        "title": {"ru" :  "Вибрация", "en" :  "Vibration"}
+    },
+    {
+        "title": {"ru" :  "Искрение", "en" :  "Sparking"}
+    },
+    {
+        "title": {"ru" :  "Биение", "en" :  "Pitapat"}
+    },
+    {
+        "title": {"ru" :  "Включение", "en" :  "Switching-on"}
+    },
+    {
+        "title": {"ru" :  "Мощность", "en" :  "Power"}
+    },
+    {
+        "title": {"ru" :  "Ошибка", "en" :  "Error"}
+    },
+    {
+        "title": {"ru" :  "Обрыв провода", "en" :  "Broken wire"}
+    },
+    {
+        "title": {"ru" :  "Износ", "en" :  "Wear"}
+    },
+    {
+        "title": {"ru" :  "Разрушение", "en" :  "Destroy"}
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "last_name" : "Админов",
+        "name" : "Админ",
+        "second_name" : "Админович",
+        "phone" : "88001234560",
+        "email" : "admin@test.ru",
+        "password" : "test",
+        "status" : 1,
+        "is_admin" : true,
+        "group" : "admin"
+    },
+    {
+        "last_name" : "Модераторов",
+        "name" : "Модератор",
+        "second_name" : "Модераторович",
+        "phone" : "88001234559",
+        "email" : "mod@test.ru",
+        "password" : "test",
+        "status" : 1,
+        "is_admin" : true,
+        "group" : "moderator"
+    },
+    {
+        "last_name" : "Иванов",
+        "name" : "Иван",
+        "second_name" : "Иванович",
+        "phone" : "88001234567",
+        "email" : "user1@test.ru",
+        "password" : "test",
+        "status" : 1,
+        "is_admin" : false,
+        "group" : "user"
+    },
+    {
+        "last_name" : "Константинопольский",
+        "name" : "Константин",
+        "second_name" : "Константинович",
+        "phone" : "88001234568",
+        "email" : "user2@test.ru",
+        "password" : "test",
+        "status" : 1,
+        "is_admin" : false,
+        "group" : "user"
+    },
+    {
+        "last_name" : "Петрова",
+        "name" : "Елена",
+        "second_name" : "Анатольевна",
+        "phone" : "88001234569",
+        "email" : "user3@test.ru",
+        "password" : "test",
+        "status" : 1,
+        "is_admin" : false,
+        "group" : "user"
+    }
+]

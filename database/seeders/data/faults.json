@@ -1,0 +1,107 @@
+[
+    {
+        "title" : {"ru" :  "Неисправность электромотора", "en" :  "Electric motor malfunction"},
+        "content" : {"ru" :  "Текст описания неисправности электромотора", "en" :  "Text describing the electric motor malfunction"},
+        "sort" : 10,
+        "guarantee_id" : 1,
+        "tags" : [1, 3]
+    },
+    {
+        "title" : {"ru" :  "Сбой системы управления", "en" :  "Control system failure"},
+        "content" : {"ru" :  "Текст описания сбоя системы управления", "en" :  "Text describing the control system failure"},
+        "sort" : 10,
+        "guarantee_id" : 2,
+        "tags" : [2, 4]
+    },
+    {
+        "title" : {"ru" :  "Проблема с охлаждением", "en" :  "Cooling issue"},
+        "content" : {"ru" :  "Текст описания проблемы с охлаждением", "en" :  "Text describing the cooling issue"},
+        "sort" : 10,
+        "guarantee_id" : 1,
+        "tags" : [1, 5]
+    },
+    {
+        "title" : {"ru" :  "Низкое напряжение", "en" :  "Low voltage"},
+        "content" : {"ru" :  "Текст описания низкого напряжения", "en" :  "Text describing the low voltage"},
+        "sort" : 10,
+        "guarantee_id" : 2,
+        "tags" : [3, 6]
+    },
+    {
+        "title" : {"ru" :  "Перегрузка", "en" :  "Overload"},
+        "content" : {"ru" :  "Текст описания перегрузки", "en" :  "Text describing the overload"},
+        "sort" : 10,
+        "guarantee_id" : 1,
+        "tags" : [2, 7]
+    },
+    {
+        "title" : {"ru" :  "Короткое замыкание", "en" :  "Short circuit"},
+        "content" : {"ru" :  "Текст описания короткого замыкания", "en" :  "Text describing the short circuit"},
+        "sort" : 10,
+        "guarantee_id" : 2,
+        "tags" : [4, 8]
+    },
+    {
+        "title" : {"ru" :  "Поломка подшипника", "en" :  "Bearing failure"},
+        "content" : {"ru" :  "Текст описания поломки подшипника", "en" :  "Text describing the bearing failure"},
+        "sort" : 10,
+        "guarantee_id" : 1,
+        "tags" : [1, 9]
+    },
+    {
+        "title" : {"ru" :  "Обрыв кабеля", "en" :  "Cable breakage"},
+        "content" : {"ru" :  "Текст описания обрыва кабеля", "en" :  "Text describing the cable breakage"},
+        "sort" : 10,
+        "guarantee_id" : 2,
+        "tags" : [5, 10]
+    },
+    {
+        "title" : {"ru" :  "Перегрев", "en" :  "Overheating"},
+        "content" : {"ru" :  "Текст описания перегрева", "en" :  "Text describing the overheating"},
+        "sort" : 10,
+        "guarantee_id" : 1,
+        "tags" : [6, 8]
+    },
+    {
+        "title" : {"ru" :  "Неисправность датчика", "en" :  "Sensor malfunction"},
+        "content" : {"ru" :  "Текст описания неисправности датчика", "en" :  "Text describing the sensor malfunction"},
+        "sort" : 10,
+        "guarantee_id" : 2,
+        "tags" : [3, 7]
+    },
+    {
+        "title" : {"ru" :  "Износ щеток", "en" :  "Brush wear"},
+        "content" : {"ru" :  "Текст описания износа щеток", "en" :  "Text describing the brush wear"},
+        "sort" : 10,
+        "guarantee_id" : 1,
+        "tags" : [1, 4]
+    },
+    {
+        "title" : {"ru" :  "Повреждение изоляции", "en" :  "Insulation damage"},
+        "content" : {"ru" :  "Текст описания повреждения изоляции", "en" :  "Text describing the insulation damage"},
+        "sort" : 10,
+        "guarantee_id" : 2,
+        "tags" : [2, 9]
+    },
+    {
+        "title" : {"ru" :  "Поломка ротора", "en" :  "Rotor failure"},
+        "content" : {"ru" :  "Текст описания поломки ротора", "en" :  "Text describing the rotor failure"},
+        "sort" : 10,
+        "guarantee_id" : 1,
+        "tags" : [3, 5]
+    },
+    {
+        "title" : {"ru" :  "Замыкание на корпус", "en" :  "Ground fault"},
+        "content" : {"ru" :  "Текст описания замыкания на корпус", "en" :  "Text describing the ground fault"},
+        "sort" : 10,
+        "guarantee_id" : 2,
+        "tags" : [4, 6]
+    },
+    {
+        "title" : {"ru" :  "Сбои в питании", "en" :  "Power supply issues"},
+        "content" : {"ru" :  "Текст описания сбоев в питании", "en" :  "Text describing the power supply issues"},
+        "sort" : 10,
+        "guarantee_id" : 1,
+        "tags" : [7, 10]
+    }
+]

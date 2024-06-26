@@ -1,0 +1,8 @@
+[
+    {
+        "title" : {"ru" :  "Гарантийный случай", "en" :  "Warranty case"}
+    },
+    {
+        "title" : {"ru" :  "Не гарантийный случай", "en" :  "Not a warranty case"}
+    }
+]
